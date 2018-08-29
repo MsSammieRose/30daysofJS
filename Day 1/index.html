@@ -12,7 +12,7 @@ Covered:
 
 1. Playing audio
 2. Key events
-3. Listening for transition end 
+3. Listening for transition end
 
 </audio>
 
@@ -86,7 +86,8 @@ Covered:
 
     const keys = document.querySelectorAll('.key');
     keys.forEach(key => key.addEventListener('transitionend', removeTransition));
-    window.addEventListener('keydown', playSound);
+    //changed to a keyup to get out of the hold-down bug
+    window.addEventListener('keyup', playSound);
 
   </script>
 
