@@ -8,7 +8,7 @@ Follow along with me on Twitter [@MsSammieRose](https://twitter.com/MsSammieRose
 
 - [x] Day 1 - JavaScript Drum Kit
 - [x] Day 2 - JavaScript Clock
-- [ ] Day 3
+- [x] Day 3 - Updating CSS Variable with JavaScript
 - [ ] Day 4
 - [ ] Day 5
 - [ ] Day 6
