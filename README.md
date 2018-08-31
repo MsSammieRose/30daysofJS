@@ -7,7 +7,7 @@ Done with pure Vanilla JS
 Follow along with me on Twitter [@MsSammieRose](https://twitter.com/MsSammieRose)
 
 - [x] Day 1 - JavaScript Drum Kit
-- [ ] Day 2
+- [x] Day 2 - JavaScript Clock
 - [ ] Day 3
 - [ ] Day 4
 - [ ] Day 5
