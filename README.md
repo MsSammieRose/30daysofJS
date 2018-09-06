@@ -13,7 +13,7 @@ Follow along with me on Twitter [@MsSammieRose](https://twitter.com/MsSammieRose
 - [X] Day 5 - Simple Flexbox
 - [X] Day 6 - AJAX Type Ahead with Fetch
 - [X] Day 7 - Array Cardio 2
-- [ ] Day 8
+- [X] Day 8 - HTML5 Canvas and HSL
 - [ ] Day 9
 - [ ] Day 10
 - [ ] Day 11
