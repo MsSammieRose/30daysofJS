@@ -12,7 +12,7 @@ Follow along with me on Twitter [@MsSammieRose](https://twitter.com/MsSammieRose
 - [X] Day 4 - Array Cardio
 - [X] Day 5 - Simple Flexbox
 - [X] Day 6 - AJAX Type Ahead with Fetch
-- [ ] Day 7
+- [X] Day 7 - Array Cardio 2
 - [ ] Day 8
 - [ ] Day 9
 - [ ] Day 10
